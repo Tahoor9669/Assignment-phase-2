@@ -30,3 +30,19 @@ This project is a chat application built using the MEAN stack (MongoDB, Express,
 ├── README.md                  # Project documentation
 ├── .gitignore                 # Git ignore file
 └── package.json               # Node.js dependencies and scripts
+
+
+
+Your Name : Syed Tahoor Imam
+Student ID: s5256030
+
+
+
+### Key Points Covered in This README:
+1. **Installation and Setup**: Clear instructions on how to install dependencies and run both the backend and frontend servers.
+2. **API Routes**: Describes all the relevant API routes (user authentication, group and channel management, chat, and image upload).
+3. **Client-Server Interaction**: Explanation of how the Angular frontend communicates with the Node.js backend and how real-time messaging is implemented using Socket.io.
+4. **Socket.io Implementation**: Describes how real-time chat works using Socket.io.
+5. **Testing**: Includes sample unit tests for both the backend (using Mocha and Chai) and the frontend (using Jasmine and Karma).
+
+This full README file provides all the necessary details for your Assignment Phase 2 submission. Copy this content into your `README.md` file and push it to your GitHub repository! Let me know if you need further adjustments
