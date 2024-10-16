@@ -32,7 +32,7 @@ This project is a chat application built using the MEAN stack (MongoDB, Express,
 └── package.json               # Node.js dependencies and scripts
 
 
-
+Author
 Your Name : Syed Tahoor Imam
 Student ID: s5256030
 
